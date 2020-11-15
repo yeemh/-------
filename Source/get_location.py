@@ -3,7 +3,7 @@
 import requests
 
 def get_current_location():
-    LOCATION_API_KEY = 'AIzaSyBkHAyQsn6hP1a1zOQZ-JapCPcAvJE-VzY'
+    LOCATION_API_KEY = #deleted API_KEY
 
     url = f'https://www.googleapis.com/geolocation/v1/geolocate?key={LOCATION_API_KEY}'
 
