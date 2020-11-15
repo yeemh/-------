@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import urllib.request
 import urllib.parse
 
-API_KEY = '3a1c50808284421e8999527c4b4d9c92'
+API_KEY = #deleted API_KEY
 S_CD = [41110, 41460] #시군코드->수원:41110, 용인:41460
 
 def get_franchisee(s_cd):
